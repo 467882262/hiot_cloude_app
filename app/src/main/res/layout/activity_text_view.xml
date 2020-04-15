@@ -17,7 +17,7 @@
         android:id="@+id/id_2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/text2"
+        android:text="17物联网工程1班温鑫"
         android:textColor="#993300"
         android:textSize="24sp"
         android:layout_margin="10dp"
