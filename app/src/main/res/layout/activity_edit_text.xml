@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+    <EditText
+        android:id="@+id/et_1"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:textSize="20sp"
+        android:textColor="#FFAD33"
+        android:hint="用户名"
+        android:background="@drawable/type"
+        android:paddingLeft="10dp"/>
+    <EditText
+        android:id="@+id/et_2"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:textSize="20sp"
+        android:textColor="#FFAD53"
+        android:hint="密码"
+        android:layout_below="@id/et_1"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/type"/>
+    <Button
+        android:id="@+id/hello"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="你好"
+        android:layout_below="@id/et_2"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/type"/>
+
+
+
+
+
+</RelativeLayout>

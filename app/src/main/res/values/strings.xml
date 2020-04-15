@@ -1,0 +1,8 @@
+<resources>
+    <string name="text1">罗樟</string>
+    <string name="text2">17物联网工程1班</string>
+    <string name="text3">15号</string>
+    <string name="text4">显示姓名</string>
+    <string name="text5">显示班级</string>
+    <string name="text6">显示学号</string>
+</resources>
